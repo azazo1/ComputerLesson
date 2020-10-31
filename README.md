@@ -1,1 +1,4 @@
 ComputerLesson
+纪中电脑室工具
+先启动批处理文件，如果运行后还是不能打开python则直接使用python安装包安装python，注意勾选Add to Path
+然后再安装pip和pygame
