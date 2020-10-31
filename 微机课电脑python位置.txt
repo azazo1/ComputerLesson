@@ -1,0 +1,2 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python37
+C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Scripts\pip.exe
